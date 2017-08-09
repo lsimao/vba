@@ -1,6 +1,5 @@
 Option Explicit
 'Inflate (Deflate decompression) according https://tools.ietf.org/html/rfc1951
-'ls@portugalmail.com
 
 'TODO:
 '      pReadBits: MORE TESTING NEEDED!!! 1. last byte full read?, 2. pReadBit vs bit by bit, 3...
